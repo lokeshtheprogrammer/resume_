@@ -1,0 +1,41 @@
+\documentclass[a4paper,10pt]{article}
+\section*{Projects}
+\textbf{Hybrid CNN-ViT for Food Recognition} \hfill 2025\\
+Developed a hybrid \textbf{Convolutional-Vision Transformer (CNN-ViT)} model for food recognition and calorie estimation achieving \textbf{~90\% accuracy}.\\
+\textit{Tech Stack: Python, TensorFlow}
+
+\vspace{2pt}
+\textbf{Nutri Fill – Nutrition Analysis App} \hfill 2024\\
+Built a \textbf{Full-Stack Android App} integrating Google Vision \& Edamam APIs for food detection, deficiency alerts, and meal planning.\\
+\textit{Tech Stack: Kotlin, Node.js, MongoDB}
+
+\vspace{2pt}
+\textbf{Ko-Matha Dairy Farm Website} \hfill 2024\\
+Created a responsive e-commerce site for dairy product sales and blogs on sustainable farming.\\
+\textit{Tech Stack: HTML, CSS, JavaScript, PHP}
+
+% -------------------------------------------
+\section*{Certifications}
+Oracle AI Vector Search \& APEX (Oracle) • \textbf{AWS Certified Cloud Practitioner (CLF-C02)} – Sep 2025 • Generative AI (Google) • Artificial Intelligence (Infosys Springboard) • IoT (NPTEL)  
+\textit{Verification:} \href{https://drive.google.com/drive/folders/1aijDTX4ktKAOZPs_P3c6JTP6_79fAxkF?usp=sharing}{View Certificates}
+
+
+% -------------------------------------------
+\section*{Achievements}
+Best Poster Presentation – SSE, SIMATS (2024) • Best Student Award – Tamil Thaai Foundation (2024) • Best Presentation – “Innovators’ Showcase” (2025)
+
+% -------------------------------------------
+\section*{Leadership \& Contributions}
+• \textbf{Team Leader – Google Solution Challenge Bootcamp 2025:} Led a 4-member team developing solutions for UN Sustainable Development Goals.\\
+• \textbf{Technical Content Volunteer – Department Symposium, SIMATS:} Reviewed and presented technical content for inter-college events.
+
+% -------------------------------------------
+\section*{Hobbies \& Interests}
+Listening to tech podcasts • Competitive coding (LeetCode, HackerRank) • Exploring AI tools • UI/UX design concepts\\ • Reading tech blogs • Playing chess
+
+% -------------------------------------------
+\section*{Languages Known}
+\textbf{English} (Fluent) | \textbf{Tamil} (Native) | \textbf{Telugu, Hindi} (Conversational)
+
+\end{document}
+
